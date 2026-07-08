@@ -1,0 +1,8 @@
+Square Size: 17
+Marker Size: 12
+Columns: 9
+Rows: 5
+Border Size: 0
+Thickness: 1
+Surface Layer: 0.6
+Dictionary: 4x4_250
